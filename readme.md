@@ -22,8 +22,8 @@ This project is a simple Streamlit application that leverages the LangChain libr
 1. Clone the repository:
 
    ```bash
-   git clone <repository-url>
-   cd <repository-directory>
+   git clone https://github.com/justint0x/vanna-agent-train
+   cd vanna-agent-train
 
 2. Install dependencies:
 
